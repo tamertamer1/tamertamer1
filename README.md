@@ -25,16 +25,16 @@ I'm a software engineer at **Amazon** in San Diego, with a Computer Engineering 
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/tamertamer1/NimbleChallenge"><img src="assets/card-nimble.svg" alt="Real-time video tracking over WebRTC and WebTransport" width="100%"/></a></td>
     <td width="50%"><a href="https://github.com/tamertamer1/Intellitory"><img src="assets/card-intellitory.svg" alt="Intellitory — RFID smart shelving capstone" width="100%"/></a></td>
-  </tr>
-  <tr>
     <td width="50%"><a href="https://github.com/tamertamer1/ECE-150-Java-Android-Apps"><img src="assets/card-android.svg" alt="Android app suite" width="100%"/></a></td>
-    <td width="50%"><a href="https://github.com/tamertamer1/ApexJavaHWSpringBoot"><img src="assets/card-springboot.svg" alt="Spring Boot accounts REST API" width="100%"/></a></td>
   </tr>
   <tr>
+    <td width="50%"><a href="https://github.com/tamertamer1/ApexJavaHWSpringBoot"><img src="assets/card-springboot.svg" alt="Spring Boot accounts REST API" width="100%"/></a></td>
     <td width="50%"><a href="https://github.com/tamertamer1/ECE157B--ML-AI"><img src="assets/card-ml.svg" alt="Deep learning projects" width="100%"/></a></td>
+  </tr>
+  <tr>
     <td width="50%"><a href="https://github.com/tamertamer1/ECE153B-C-STM32-"><img src="assets/card-embedded.svg" alt="Embedded C drivers on STM32" width="100%"/></a></td>
+    <td width="50%"><a href="https://github.com/tamertamer1/cs24"><img src="assets/card-cpp.svg" alt="Data structures in C++" width="100%"/></a></td>
   </tr>
 </table>
 
